@@ -9,7 +9,7 @@
 
 
 
-# A local shop is having a promotion. If you spend over £10 you will get a £1 voucher to spend next time you come in the store. If you spend over £20 you get a £3 voucher.
+# A local shop is having a promotion! If you spend over £10 you will get a £1 voucher to spend next time you come in the store. If you spend over £20 you get a £3 voucher.
 # 
 # Write a programme to tell the sales assistant which voucher to give the customer.
 # 
